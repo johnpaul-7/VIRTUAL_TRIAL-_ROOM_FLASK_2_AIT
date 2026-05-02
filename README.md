@@ -1,4 +1,15 @@
 # VIRTUAL_TRIAL-_ROOM_FLASK_2_AIT
 Developed a Virtual Trial Room web application using Flask that allows users to virtually try products through a web interface. Implemented backend logic, routing, and template rendering using Flask, along with basic frontend integration. Focused on user interaction, application flow, and deployment-ready structure. Enhanced understanding of web development, client–server architecture, and Python-based frameworks.
 # Technologies Used 
-Python ,SQL,HTML,JavaScript
+Python 
+SQL
+HTML
+Flask
+
+## Features
+- Virtual clothing try-on
+- Web interface
+
+## How to Run
+1. Install Flask
+2. Run app.py
